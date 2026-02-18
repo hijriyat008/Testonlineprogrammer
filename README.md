@@ -57,3 +57,26 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## dokumentasi
+E-Learning Laravel
+Deskripsi
+Aplikasi E-Learning berbasis Laravel yang mendukung:
+Manajemen Mata Kuliah
+Upload & Download Materi
+Sistem Tugas & Penilaian
+Forum Diskusi
+Laporan & Statistik
+Fitur
+*Dosen
+Membuat & mengelola mata kuliah
+Upload materi
+Membuat tugas
+Melihat & menilai submission mahasiswa
+Melihat laporan statistik
+*Mahasiswa
+Enroll mata kuliah
+Download materi
+Upload jawaban tugas
+Melihat nilai
+Diskusi & balas diskusi
